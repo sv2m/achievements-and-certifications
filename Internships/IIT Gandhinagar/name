@@ -1,1 +1,4 @@
-
+Rehabilitation Back Assist Exoskeleton Development
+- Contributed to the design and fabrication of a back-assist rehabilitation exoskeleton.
+- Integrated sensors, actuators, and embedded electronics, including Cubemars actuators, Teensy 4.1 microcontroller, IMUs, and load-cell-based force sensing.
+- Developed system wiring architecture and participated in hardware assembly, testing, and debugging (including testing of IMUs, load-cell etc.)
