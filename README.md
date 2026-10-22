@@ -7,7 +7,8 @@ This repository contains a curated collection of my certifications, competition 
 - Mechanical Design (CAD, FEA)
 - Simulation (ROS2, Gazebo)
 - CFD (computational fluid dynamics)
-- 
+- Embedded systems
+  
 ### Competitions
 Includes certificates from technical competitions and engineering events.
 
@@ -19,6 +20,9 @@ Includes certifications from technical coursework and self-learning.
 
 ### Workshops
 Hands-on workshops attended related to robotics, CAD, and engineering tools.
+
+### Workshops (by me)
+Includes workshops that were conducted by me.
 
 ## Purpose of this Repository
 This repository serves as a documented record of my continuous learning, hands-on participation, and technical exposure in engineering domains.
