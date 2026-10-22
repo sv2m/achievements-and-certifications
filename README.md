@@ -18,11 +18,11 @@ Includes certificates from hackathons I've participated in.
 ### Courses
 Includes certifications from technical coursework and self-learning.
 
-### Workshops
+### Workshops attended
 Hands-on workshops attended related to robotics, CAD, and engineering tools.
 
-### Workshops (by me)
-Includes workshops that were conducted by me.
+### Workshops Led
+Includes workshops that were led.
 
 ## Purpose of this Repository
 This repository serves as a documented record of my continuous learning, hands-on participation, and technical exposure in engineering domains.
